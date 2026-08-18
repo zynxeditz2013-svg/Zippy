@@ -1,5 +1,5 @@
 # Zippy
-https://i.postimg.cc/9QGzTjqz/Screenshot-2026-08-18-203403.png
+![Alt Text](https://i.postimg.cc/9QGzTjqz/Screenshot-2026-08-18-203403.png)
 Zippy is a Script that runs in your terminal which can encrypt anything into a .zippy file which cannot be opened or extracted by any other app only zippy has the ability to Decrypt it with the correct password. Making protective file sharing easier and more secure.
 
 # How to Install?
