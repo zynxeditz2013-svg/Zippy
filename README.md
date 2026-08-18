@@ -22,12 +22,3 @@ zippy
 1. Select Decrypt and select the .zippy file.
 2. Now Put the Correct Password.
 3. Now simply select a output location to extract the file.
-
- 
- ███████╗██╗██████╗ ██████╗ ██╗   ██╗
- ╚══███╔╝██║██╔══██╗██╔══██╗╚██╗ ██╔╝
-   ███╔╝ ██║██████╔╝██████╔╝ ╚████╔╝
-  ███╔╝  ██║██╔═══╝ ██╔═══╝   ╚██╔╝
- ███████╗██║██║     ██║        ██║
- ╚══════╝╚═╝╚═╝     ╚═╝        ╚═╝
-                                                 
