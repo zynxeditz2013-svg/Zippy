@@ -5,7 +5,7 @@ Zippy is a Script that runs in your terminal which can encrypt anything into a .
 # How to Install?
 Simply run this command in a Administrator Command Prompt
 ```cmd
-powershell -Command "Invoke-WebRequest -Uri '[https://raw.githubusercontent.com/zynxeditz2013-svg/Zippy/main/zippy.bat](https://raw.githubusercontent.com/zynxeditz2013-svg/Zippy/main/zippy.bat)' -OutFile 'C:\Windows\System32\zippy.bat'; Write-Host 'Zippy installed successfully! Type zippy to run it.'"
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/zynxeditz2013-svg/Zippy/main/Zippy.bat -OutFile C:\Windows\System32\zippy.bat; Write-Host 'Zippy installed successfully! Type zippy to run it.'"
 ```
 Then simply in any terminal window run:
 ```cmd
