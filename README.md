@@ -48,4 +48,4 @@ Note: if the archive's creator disabled previewing when it was made, View will r
 2. Provide the path to your legacy v1.1 .zippy file.
 3. Enter your original password to unlock it.
 4. Set your new v1.2 password and destination folder to finish upgrading the archive format with enhanced security flags and cryptographic integrity hashing.
-5. 
+
