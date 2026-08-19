@@ -38,5 +38,7 @@ zippy
 3. Now simply select a output location to extract the file.
 
 ## How to view file?
-1. First select the view function
-2. Then simply follow the onscreen instructions.
+1.Select the View function and select the .zippy file.
+2.If the archive is password-protected, enter the password to preview its contents.
+
+###Note: if the archive's creator disabled previewing when it was made, View will refuse to list its contents regardless of password.
