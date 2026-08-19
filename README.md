@@ -41,4 +41,4 @@ zippy
 1.Select the View function and select the .zippy file.
 2.If the archive is password-protected, enter the password to preview its contents.
 
-##Note: if the archive's creator disabled previewing when it was made, View will refuse to list its contents regardless of password.
+Note: if the archive's creator disabled previewing when it was made, View will refuse to list its contents regardless of password.
