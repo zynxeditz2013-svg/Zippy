@@ -11,7 +11,7 @@ Then simply in any terminal window run:
 ```cmd
 zippy
 ```
-Note: If you installed the previous version of Zippy and want to install the latest version:
+Note: If you installed the previous version of Zippy and want to install the latest version, Run this command in a Administrator PowerShell: 
 ```cmd
 Remove-Item C:\Windows\System32\zippy.bat -Force; Write-Host 'Zippy uninstalled successfully.'
 ```
