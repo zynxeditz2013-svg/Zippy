@@ -1,5 +1,5 @@
-# Zippy
-![Alt Text](https://i.postimg.cc/50NcxDzt/Screenshot-2026-08-18-204123.png)
+# Zippy 1.1
+![Alt Text](https://i.postimg.cc/hj9GvzvC/Screenshot-2026-08-19-082156.png)
 Zippy is a Script Made by ItzBlobbo that runs in your terminal which can encrypt anything into a .zippy file which cannot be opened or extracted by any other app only zippy has the ability to Decrypt it with the correct password. Making protective file sharing easier and more secure.
 
 # How to Install?
@@ -11,6 +11,20 @@ Then simply in any terminal window run:
 ```cmd
 zippy
 ```
+Note: If you installed the previous version of Zippy and want to install the latest version:
+```cmd
+Remove-Item C:\Windows\System32\zippy.bat -Force; Write-Host 'Zippy uninstalled successfully.'
+```
+Then run the install command again
+```cmd
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/zynxeditz2013-svg/Zippy/main/Zippy.bat -OutFile C:\Windows\System32\zippy.bat; Write-Host 'Zippy installed successfully! Type zippy to run it.'"
+```
+Then simply run Zippy
+```cmd
+zippy
+```
+
+
 
 # How to use?
 ## How to Encrypt?
@@ -22,3 +36,7 @@ zippy
 1. Select Decrypt and select the .zippy file.
 2. Now Put the Correct Password.
 3. Now simply select a output location to extract the file.
+
+## How to view file?
+1. First select the view function
+2. Then simply follow the onscreen instructions.
