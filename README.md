@@ -1,5 +1,5 @@
-# Zippy 1.1
-![Alt Text](https://i.postimg.cc/hj9GvzvC/Screenshot-2026-08-19-082156.png)
+# Zippy 1.2
+![Alt Text](https://i.postimg.cc/Bv24sjh4/Screenshot-2026-08-19-102011.png)
 Zippy is a Script Made by ItzBlobbo that runs in your terminal which can encrypt anything into a .zippy file which cannot be opened or extracted by any other app only zippy has the ability to Decrypt it with the correct password. Making protective file sharing easier and more secure.
 
 # How to Install?
@@ -42,3 +42,10 @@ zippy
 2. If the archive is password-protected, enter the password to preview its contents.
 
 Note: if the archive's creator disabled previewing when it was made, View will refuse to list its contents regardless of password.
+
+## How to Upgrade Legacy Archives?
+1. Select Option [4] Upgrade .zippy Files (v1.1 to v1.2) from the main menu.
+2. Provide the path to your legacy v1.1 .zippy file.
+3. Enter your original password to unlock it.
+4. Set your new v1.2 password and destination folder to finish upgrading the archive format with enhanced security flags and cryptographic integrity hashing.
+5. 
